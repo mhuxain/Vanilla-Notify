@@ -230,3 +230,5 @@ var vNotify = (function() {
     positionOption: positionOption
   };
 })();
+
+export default vNotify;
